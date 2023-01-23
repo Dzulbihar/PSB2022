@@ -1,0 +1,4 @@
+Problem APK pondok askhabul kahfi
+
+1. format tgl di profile siswa masih default = buat bhasa indo
+2. import tgl lahir siswa

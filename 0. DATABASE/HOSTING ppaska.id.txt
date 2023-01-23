@@ -1,0 +1,35 @@
+database	psbaska
+
+database named “ppaskaid_psbaska”.
+username = PSBaska2021
+password = askhabulkahfi2009
+
+
+Database: ppaskaid_psbaska
+Username: ppaskaid_PSBaska2021
+password = askhabulkahfi2009
+
+
+https://ppaska.id/aska/register
+
+
+http://gollum.sg.rapidplex.com/cpanel
+
+Detail Login cPanel
+Domain	: www.ppaska.id
+
+cPanel Username	: ppaskaid
+cPanel Password	: zL9i;XxeP05+2T
+Control Panel URL	: http://gollum.sg.rapidplex.com/cpanel
+
+Alternatif	: http://ppaska.id/cpanel
+
+
+Cara membuat webcam di html
+https://www.petanikode.com/html-webcam/
+
+
+PSB2021@gmail.com
+Administrator@gmail.com
+PSB2022@gmail.com
+45kH4buL*k4hF1*
